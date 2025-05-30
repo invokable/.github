@@ -21,7 +21,7 @@ As of writing:
 
 ### Version Increment Policy for Dropping Support
 
-When dropping support for older PHP or Laravel versions, we increment the **MINOR** version by `0.1`. For example:
+When dropping support for older PHP or Laravel versions, we increment the **MINOR** version by `1`. For example:
 
 - Current version: `1.2.0` (supports PHP 8.0+)
 - After dropping PHP 8.0 support: `1.3.0` (supports PHP 8.1+)
