@@ -46,7 +46,7 @@ To ensure your project always receives compatible updates, we recommend using th
 ```json
 {
     "require": {
-        "invokable/package-name": "^1.0"
+        "vendor/package-name": "^1.0"
     }
 }
 ```
