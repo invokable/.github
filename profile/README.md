@@ -14,7 +14,6 @@ All packages under the Invokable organization follow [Semantic Versioning](https
 
 Invokable packages align their PHP version support with Laravel's official support schedule. You can find the current Laravel version support status at [Laravel Releases](https://laravel.com/docs/releases).
 
-As of writing:
 - Laravel follows PHP's [official support schedule](https://www.php.net/supported-versions.php)
 - Only actively supported PHP versions are maintained in the latest Laravel version
 - When PHP versions reach end-of-life, support is dropped in subsequent Laravel releases
