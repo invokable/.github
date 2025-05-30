@@ -1,5 +1,8 @@
 # Invokable
 
+## Support Discussions
+Support is provided through sponsor-only [Discussions](https://github.com/orgs/invokable/discussions). You can post any questions about Laravel, not just our packages.
+
 ## Package Versioning and Support Policy
 
 ### Semantic Versioning (SemVer)
