@@ -2,7 +2,7 @@
 
 ## Support Discussions
 Support is provided through sponsor-only [Discussions](https://github.com/orgs/invokable/discussions).  
-You can post any questions about Laravel, not just our packages.
+We offer questions and technical support not only for our packages but also for Laravel.
 
 ## Package Versioning and Support Policy
 
