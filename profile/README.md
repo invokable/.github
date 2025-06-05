@@ -2,7 +2,6 @@
 
 ## Support Discussions
 Support is provided through sponsor-only [Discussions](https://github.com/orgs/invokable/discussions).  
-We offer questions and technical support not only for our packages but also for Laravel.
 
 ## Package Versioning and Support Policy
 
@@ -56,11 +55,3 @@ To ensure your project always receives compatible updates, we recommend using th
 
 This will allow Composer to install minor and patch updates while preventing potentially breaking major version changes.
 
-### Version Compatibility Matrix
-
-| Package Version | Minimum PHP Version | Supported Laravel Versions |
-|-----------------|---------------------|----------------------------|
-| Latest (`main`) | Current active PHP  | Current active Laravel     |
-| Older branches  | As specified        | As specified               |
-
-For specific version compatibility details, please refer to each package's documentation.
