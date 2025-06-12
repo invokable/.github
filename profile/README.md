@@ -32,26 +32,3 @@ This approach ensures that:
 1. Older Laravel projects can still install compatible versions via Composer's version constraints
 2. Projects using newer PHP/Laravel versions receive the latest features and improvements
 3. Breaking changes are properly signaled without unnecessarily incrementing the major version
-
-### Support Policy
-
-- **Active Support**: Only the latest version (on the `main` branch) receives active development, bug fixes, and security updates
-- **Community Support**: Pull requests to separate branches for older versions will be accepted if they:
-  - Fix critical bugs or security vulnerabilities
-  - Do not introduce new features that would require backporting
-  - Maintain backward compatibility within that version series
-
-### Composer Configuration
-
-To ensure your project always receives compatible updates, we recommend using the caret (`^`) version constraint in your `composer.json`:
-
-```json
-{
-    "require": {
-        "vendor/package-name": "^1.0"
-    }
-}
-```
-
-This will allow Composer to install minor and patch updates while preventing potentially breaking major version changes.
-
